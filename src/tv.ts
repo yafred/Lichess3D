@@ -1,5 +1,5 @@
-import { type Api as CgApi } from 'chessground/api';
-import { type Key } from 'chessground/types';
+import { type Api as CgApi } from '@lichess-org/chessground/api';
+import { type Key } from '@lichess-org/chessground/types';
 import { Chess, type Color } from 'chessops';
 import { parseFen } from 'chessops/fen';
 

@@ -7,7 +7,7 @@
     "@bity/oauth2-auth-code-pkce": "^2",
     "@types/node": "^24.12.3",
     "bootstrap": "^5.3.8",
-    "chessground": "^9.2.1",
+    "@lichess-org/chessground": "^10.1.1",
     "chessops": "^0.15.0",
     "page": "^1.11.6",
     "snabbdom": "^3.6.3"

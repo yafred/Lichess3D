@@ -1,5 +1,5 @@
-import { type Color } from 'chessground/types';
-import { opposite } from 'chessground/util';
+import { type Color } from '@lichess-org/chessground/types';
+import { opposite } from '@lichess-org/chessground/util';
 import { h } from 'snabbdom';
 
 import { type GameCtrl } from '../game';

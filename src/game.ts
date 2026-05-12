@@ -1,6 +1,6 @@
-import { type Api as CgApi } from 'chessground/api';
-import { type Config as CgConfig } from 'chessground/config';
-import { type Color, type Key } from 'chessground/types';
+import { type Api as CgApi } from '@lichess-org/chessground/api';
+import { type Config as CgConfig } from '@lichess-org/chessground/config';
+import { type Color, type Key } from '@lichess-org/chessground/types';
 import { Chess, defaultSetup } from 'chessops';
 import { chessgroundDests } from 'chessops/compat';
 import { makeFen, parseFen } from 'chessops/fen';
