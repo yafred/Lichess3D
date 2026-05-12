@@ -1,4 +1,4 @@
-import { Chessground } from 'chessground';
+import { Chessground } from '@lichess-org/chessground';
 import { h } from 'snabbdom';
 
 import { type Ctrl } from '../ctrl';

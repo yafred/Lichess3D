@@ -1,4 +1,4 @@
-import { Chessground } from 'chessground';
+import { Chessground } from '@lichess-org/chessground';
 import { type Color } from 'chessops';
 import { h, type VNode } from 'snabbdom';
 
